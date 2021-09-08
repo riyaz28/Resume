@@ -132,6 +132,16 @@ body
   margin-left:30px;
 
 }
+.skill-row1
+{
+  width:50%;
+  /*margin-left: auto;
+  margin-right: auto; for centering of skill row*/
+  margin:75px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+  padding: 20px;
+}
 .BUTTON_VHI {
    background: #11999E;
    background-image: -webkit-linear-gradient(top, #11999E, #11999E);
